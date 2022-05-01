@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(61, 61, 61);
+  color: rgb(23,82,12);
+}
+.canvas {
+  border: 2px solid rgb(165, 108, 2);
+}
+
+.col {
+  border: 1px solid black;
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.yellow {
+  color: yellow;
+}
+
+.aroundCanvas {
+  min-width: 600px;
+}
