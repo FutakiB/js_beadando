@@ -9,4 +9,4 @@ Játék lényege hogy az ellenfeleknél gyosabban összeszedjük a labirintusban
 *Ezekután megjelenik a járéktábla, a táblázatban látszik mejik játékos következik és hogy melyik kincset kell összegyűjtenie.
 *A játékos először egy tábla elemet tud a labirintus megjelölt sorába vagy oszlopába betolni amit forgathat is előtte (jobb click), utána léphet a megjelölt négyzetekre.
 
-itt lehet kipróbálni: --
+itt lehet kipróbálni: https://futakib.github.io/js_beadando/
